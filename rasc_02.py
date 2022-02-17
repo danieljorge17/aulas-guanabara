@@ -1,4 +1,4 @@
-# Rascunhos 02 - Brincando Escape Codes
+# Rascunhos 02 - Brincando com Escape Codes
 
 print('Uma frase\n qualquer')
 # Quebra de linha
