@@ -1,4 +1,4 @@
-#Exercício 03
+#Exercício 04
 
 var_01 = input('Insira algo: ')
 
