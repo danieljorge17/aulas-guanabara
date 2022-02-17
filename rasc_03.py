@@ -33,3 +33,9 @@ print('Uma frase {var_1}{var_2}'.format(var_2 = var_01, var_1 = var_02))
 print('Uma frase {}'.format(var_01), end = var_02)
 
 print('Uma frase {}'.format(var_01), end = var_02 + '\n')
+
+var_03 = 1/3
+
+print('Valor: {}'.format(var_03))
+
+print('Valor: {:.3f}'.format(var_03))
