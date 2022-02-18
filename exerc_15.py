@@ -1,4 +1,4 @@
-#Exercício 14
+#Exercício 15
 
 var_01 = float(input('Por quantos dias o carro foi alugado? '))
 
