@@ -31,6 +31,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Diretório de músicas utilizados nos exercícios
+musicas/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
