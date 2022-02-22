@@ -6,7 +6,7 @@ ano_atual = date.today().year
 
 ano_nascimento = int(input('Em que ano você nasceu? '))
 
-if ano_atual - ano_nascimento > 20:
+if ano_atual - ano_nascimento > 25:
     print('Você está na categoria Master')
 elif ano_atual - ano_nascimento >= 19:
     print('Você está na categoria Sênior')
