@@ -1,4 +1,4 @@
-# Exercício 34
+# Exercício 35
 
 primeiro_numero = float(input('Digite o valor do primeiro lado '))
 segundo_numero  = float(input('Digite o valor do segundo lado '))

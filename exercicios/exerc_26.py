@@ -1,6 +1,6 @@
 # Exercício 26
 
-frase = input('Digite uma frase: ')
+frase = (input('Digite uma frase: ')).strip()
 
 print('A frase possui a letra "a" {} vezes'.format(frase.lower().count('a')))
 

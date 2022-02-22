@@ -1,5 +1,5 @@
 # Exercício 24
 
-cidade = input('Digite um número da cidade: ')
+cidade = str(input('Digite um número da cidade: ').strip())
 
-print('A cidade começa com a palavra SANTO: {}'.format(('SANTO' == cidade[:5])))
+print('A cidade começa com a palavra SANTO: {}'.format(('SANTO' == cidade[:5].upper())))
